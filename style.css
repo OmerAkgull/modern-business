@@ -17,9 +17,7 @@ section h2 {
 .text-white-50 {
   width: 97%;
 }
-.lead.text-muted.mb-5 {
-    width: 100%;
-}
 .quote {
-    height: 360px;
+  height: 360px;
+  overflow-y: hidden;
 }
