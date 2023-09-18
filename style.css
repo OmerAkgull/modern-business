@@ -31,3 +31,9 @@ h5 {
   overflow: hidden;
   padding-bottom: 0.1rem;
 }
+.lol {
+  width: 100%;
+}
+.lol h1 {
+  overflow: hidden;
+}
