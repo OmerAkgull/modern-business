@@ -8,8 +8,8 @@ header h1 {
 section h2 {
   overflow-y: hidden;
 }
-.header {
-  height: 460px;
+header {
+  height: 530px;
 }
 .text-center {
   width: 57%;
@@ -18,7 +18,7 @@ section h2 {
   width: 97%;
 }
 .quote {
-  height: 360px;
+  height: 400px;
   overflow-y: hidden;
 }
 .hehe {
