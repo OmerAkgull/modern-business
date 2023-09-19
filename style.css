@@ -37,3 +37,7 @@ h5 {
 .removeflow {
   overflow: hidden;
 }
+.unique {
+  padding-left: 20%;
+  padding-right: 20%;
+}
